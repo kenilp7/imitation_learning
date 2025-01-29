@@ -5,10 +5,6 @@
 - The objective of this project is to create a model for an autonomous car that can drive using the data collected from a human driving behavior. 
 - The data collected consists of images from three different cameras mounted on the vehicle along with the corresponding steering angles.
 - To achieve this, a Convolutional Neural Network (CNN) has been developed using the Keras library, which provides a high-level API for deep learning networks, with Tensorflow as the backend.
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-- [files](#project-files-description)
-- [steps](#major-steps)
 
 ## Project Files Description
 
