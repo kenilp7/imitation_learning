@@ -11,7 +11,7 @@
 The following files are included in the project:
 
 - [README.md](README.md): (writeup report) documentation of the results
-- [Behavioral_Cloning_main.py](Behavioral_Cloning_main.py): containing the script to train the model
+- [Behavioral_Cloning.py](Behavioral_Cloning.py): containing the script to train the model
 - [drive.py](drive.py): a Python script used to drive the car autonomously, it receives images as input for the CNN and sends back the predicted steering angle and speed.
 - [Nvidia_model.py](Nvidia_model.py): containing the script to create the model
 - [model.h5](model.h5): contains the trained convolution neural network
